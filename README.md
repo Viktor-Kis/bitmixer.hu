@@ -4,7 +4,7 @@ Friss magyar hírek és cikkek a tech, üzlet, tudomány, egészség, bulvár, k
 Itt találod a legérdekesebb tartalmakat, elemzéseket és összefoglalókat minden kategóriában.
 
 ## Weboldal és kategóriák
-<a href="https://bitmixer.hu" rel="dofollow">Főoldal</a>
+<a href="https://bitmixer.hu" rel="dofollow"><a href="https://bitmixer.hu" rel="dofollow">Főoldal</a>Főoldal</a>
 
 - [Főoldal](https://bitmixer.hu) – Legfrissebb hírek és cikkek egy helyen
 - [Tech hírek](https://bitmixer.hu/tech-hirek/) – Technológiai újdonságok, innovációk
